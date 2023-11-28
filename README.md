@@ -4,7 +4,6 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
 
 ## Built With
 
